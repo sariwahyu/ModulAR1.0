@@ -20,4 +20,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/KubusJaring.unity
     guid: be2edf604c8d7854097009e8d71471c0
+  - enabled: 1
+    path: Assets/Scenes/BalokMenu.unity
+    guid: b5ae4ad8c8b78c844880d8bd95578c24
+  - enabled: 1
+    path: Assets/Scenes/BalokUnsur.unity
+    guid: 5e519435c175caa4fbca651bdb25c58a
+  - enabled: 1
+    path: Assets/Scenes/BalokDiagonal.unity
+    guid: cd2850dd9cf0ce44687c8f7f0dc4c018
+  - enabled: 1
+    path: Assets/Scenes/BalokJaring.unity
+    guid: 31a37bf5d0f184043b15824c80c7f53e
+  - enabled: 1
+    path: Assets/Scenes/Latihan.unity
+    guid: 0e9dc8bf866c24944a52b27a0f8440a8
   m_configObjects: {}

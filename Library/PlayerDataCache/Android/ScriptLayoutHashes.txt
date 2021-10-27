@@ -1,12 +1,17 @@
 Android
 PlayerPath?
-D:/COMMISSION/PakFrans_UNESA/ModulAR1.0/test1.1.apk
+D:/COMMISSION/PakFrans_UNESA/ModulAR1.0/test2.0.apk
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/KubusMenu.unity
 Assets/Scenes/KubusUnsur.unity
 Assets/Scenes/KubusDiagonal.unity
 Assets/Scenes/KubusJaring.unity
+Assets/Scenes/BalokMenu.unity
+Assets/Scenes/BalokUnsur.unity
+Assets/Scenes/BalokDiagonal.unity
+Assets/Scenes/BalokJaring.unity
+Assets/Scenes/Latihan.unity
 SceneListEnd?
 71bb6a6b6c8f052f948db64c7dd3ca4f VuforiaScripts.dll:.BoundingBoxRenderer
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -58,8 +63,6 @@ aa165095bcf0f4d99594ea33df01c81b UnityEngine.UI.dll:UnityEngine.UI.Slider
 abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 d3c76b14a25eebd3a3323dd43297919c Unity.TextMeshPro.dll:TMPro.TMP_InputField
-71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
-71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 cf9f5cf2c3145a37ac07f00e50e460f9 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 507174d46dacbc5fe45e28485db5dd1e UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -305,3 +308,8 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetKubusMateriUnsur
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetKubusMateriDiagonal
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetBalokMateriUnsur
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetBalokMateriDiagonal
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetSoalLatihan

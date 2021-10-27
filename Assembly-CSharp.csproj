@@ -70,6 +70,11 @@
     <Compile Include="Assets\Script\SetActiveChild8.cs" />
     <Compile Include="Assets\Script\SetActiveDiagonal4.cs" />
     <Compile Include="Assets\Script\SetActiveDiagonal6.cs" />
+    <Compile Include="Assets\Script\TargetBalokMateriDiagonal.cs" />
+    <Compile Include="Assets\Script\TargetBalokMateriUnsur.cs" />
+    <Compile Include="Assets\Script\TargetKubusMateriDiagonal.cs" />
+    <Compile Include="Assets\Script\TargetKubusMateriUnsur.cs" />
+    <Compile Include="Assets\Script\TargetSoalLatihan.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />

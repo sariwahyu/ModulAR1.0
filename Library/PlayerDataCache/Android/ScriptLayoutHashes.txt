@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/COMMISSION/PakFrans_UNESA/ModulAR1.0/test2.0.apk
+D:/COMMISSION/PakFrans_UNESA/ModulAR1.0/test2.1.apk
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/KubusMenu.unity
@@ -96,6 +96,7 @@ aa165095bcf0f4d99594ea33df01c81b UnityEngine.UI.dll:UnityEngine.UI.Slider
 abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 b09b09440b10b126f1d721a994642729 Assembly-CSharp.dll:.SetActiveChild8
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetSoalLatihan
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 06f0fef534ca4c1d6064fd77a26bf722 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 780e8f682b3221346c034a6712a0fd25 UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -108,6 +109,7 @@ e1bbf0ab858085e38fae6b12ebbdcd35 UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 e1bbf0ab858085e38fae6b12ebbdcd35 UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 e1bbf0ab858085e38fae6b12ebbdcd35 UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 201e3fde670b00545944bb3db215c80a UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetBalokMateriDiagonal
 e9829b35c51c6b2abc7acf11dc2e4041 Assembly-CSharp.dll:.SetActiveChild12
 4e9333594897a1fb8b136ad2eae996c7 Unity.TextMeshPro.dll:TMPro.TMP_SubMeshUI
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -161,6 +163,7 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetKubusMateriDiagonal
 0077fc8e4fbae67f80e80ebd534de5a0 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 ff1cfd768b207053e073f8002f937b81 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.BackgroundPlaneBehaviour
@@ -197,6 +200,7 @@ fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBe
 8ecf52c9622b0d4723e50179572e57b4 Assembly-CSharp.dll:.SetActiveAnimasiPutar1
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetBalokMateriUnsur
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
 532399c95b9559f9a1a836d92de15df9 Assembly-CSharp.dll:.SetActiveChild6
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -235,6 +239,7 @@ dff7a11839abb9fb7222280cf3c0a95a VuforiaScripts.dll:.DefaultModelRecoEventHandle
 3b760e6526e13f7504f59e210145899a Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 507174d46dacbc5fe45e28485db5dd1e Unity.Analytics.DataPrivacy.dll:UnityEngine.Analytics.DataPrivacyButton
 deadbb6e83806ce10b6c49abb96a57fe Assembly-CSharp.dll:.SetActiveAnimasiPutar
+8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetKubusMateriUnsur
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.LoadScene
@@ -308,8 +313,3 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
-8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetKubusMateriUnsur
-8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetKubusMateriDiagonal
-8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetBalokMateriUnsur
-8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetBalokMateriDiagonal
-8b9466e5948587d403fa2267cec1d1ef Assembly-CSharp.dll:.TargetSoalLatihan

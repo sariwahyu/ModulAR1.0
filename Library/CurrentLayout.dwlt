@@ -329,23 +329,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 48950000
+      m_SelectedIDs: 7a3c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 3a4fffff664fffff7a4fffff5051ffffd65cfffffc5cffff2e5dffffce6afffffe6affff9a6bffff027affff247affff3e7bffffb07cffff047dffff2e7dffff507dffffaa7dffff527effffda7efffff47effffd885ffffdc8cfffffa8cfffffe93ffff5e9bffffdaa2ffff4caaffffb4aaffffceaaffffe8aaffff7eafffff72b0ffffa0b0ffffd2b0fffff0b0ffff38b1ffff72b1ffffa4b1ffff3ab2ffff54b6ffff5cb6fffffab6ffff3eb7ffff5cb7ffffaeb7ffff00beffff4ac4ffffb4caffff58cbffff02ccffff20ccffff62cdffff2ecfffff1ed1ffffead1ffff1cd2ffffb2d2ffff34d3ffffecd3ffff1ad4ffff34d4ffff4cd6ffff9ed6ffffccd6fffffed6ffff6ed7ffff8cd7ffff26d8ffff7ad8ffff98d8ffffe4e3ffffe8e3ffffb8e4ffff2ae5ffff6ce5ffff02e6ffff30ebffffa6efffffe8f3ffff6af4ffff0cf6ffff2af6ffffcef6ffffe8f6ffff26f7ffff74f7ffff0af9ffff14faffff76faffffdefbffff503800005a380000463f0000cc420000be570000c8570000785b0000825b0000e45b0000ee5b0000d05e0000da5e00009e640000a86400001865000022650000b8810000c2810000068f0000108f0000b2bb000000bc0000f8c7000002c800001cc8000026c8000046c8000050c800005ac8000064c80000a0cb0000aacb0000b4cb0000d2cb0000c6ce0000
+      m_ExpandedIDs: ecd1feff12d2feff38d2feff5ed2feff84d2feffacd2feffe8d2feff0cd3feff30d3feff58d3feff82d3feffacd3feffe4d3feff24d4feff5ad4feff86d4feffb2d4feffeed4feff24d5feff56d5feff82d5feffb8d5feff06d6feff44d6feff7ad6feffacd6feffdad6feff0cd7feff36d7feff84d7feffbed7fefffad7feff20d8feff52d8feff80d8feffa4d8feffd8d8feff1ed9feff62d9feff8ad9feffc2d9feff2cdafeff10e1fefff2e3feff94e5feffc0e7feffdae7feffc4eefeff32effeffcaeffeff42f0feff96f0feffc4f0feff4af4feffc6f4feffe6f4feff48f5feffb0f5feff0ef6feff28f6feff42f6feffa8f6feffc2f6feff24f7feff3ef7feff9ef7feff04f8feff62f8feffbef8feffd8fafeff60fbfeffe4fbfeff4cfcfeffd6fcfeff62fdfeffdefefeff48fffeffb6fffeff1c00ffff8605ffffa405fffff005ffffba06ffffd806fffff606ffff1407ffff2e07ffffc007ffff3808ffff5608ffffd008ffffee08ffff6809ffffe209ffff600afffff20affffd60dffff640effffd60effff8c0fffff6a10ffff5611ffffbe13ffffc413ffff6014ffffb814ffffc61affffb820ffffca26ffff9427ffff0e28ffff5c28ffff8a28ffffb828ffffea28ffff4c29ffff7a29ffffac29fffffa29ffff9e2dffffa62dffff262effff822effffc02effffee2effff2c2fffff542fffff842fffff9e2fffffb833ffffd637ffff3a3cffffac3cffffc03cffffd43cffffe83cffff343effff783effff2866ffff4a66ffff5066ffffc477ffffce77ffff7478ffffd078fffff078ffff1079ffffd883ffffea8effff9899ffffb299ffffc899ffff18a5ffff30a5ffff46a5ffff50b0ffff68b0ffff36bbffff50bbffff04c6ffff2cd1ffff38ddffffb4ebffff12f5ffffe8f5ffff5cf7ffff80faffffdafaffffdefbffff4e370000a0680000aa680000b29900001aa5000024a5000062a5000076a50000a4a700007caa000068ad0000a2b100001eb20000c4b200007ab5000024b80000a0ba00007ebd000050c1000028c3000032c30000dac40000e4c40000aac50000c6c50000d8c5000032c6000046c6000092c700009cc70000a6c70000b0c70000d4c70000e6c8000072ca000094cb000072cc000084cc000004ce0000fad2000086d6000002d9000036d9000064da000030dd0000b0de000086e100003ce40000f8e6000080ea000048ed000076f10000f6f20000d6f40000faf6000016f7000028f7000094f700009ef70000b0f70000baf70000d6f7000060fa000092fa0000f4fd00000e0101004e02010058020100620201006c0201009e020100f2030100fc03010006040100aa040100be0401000a050100d2050100fa05010004060100200601000607010010070100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: UnsurBalok
+        m_OriginalName: UnsurBalok
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 66546
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 4
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -386,9 +386,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 195.81595, y: 694.54016, z: -1.8971499}
+    m_Target: {x: 259.72098, y: 730.7311, z: -16.226654}
     speed: 2
-    m_Value: {x: 195.81595, y: 694.54016, z: -1.8971499}
+    m_Value: {x: 259.72098, y: 730.7311, z: -16.226654}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -420,16 +420,16 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 977.4102
+    m_Target: 816.6541
     speed: 2
-    m_Value: 977.4102
+    m_Value: 816.6541
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LastSceneViewOrtho: 1
+  m_LastSceneViewRotation: {x: 0.08717229, y: -0.89959055, z: 0.21045254, w: 0.3726226}
+  m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
@@ -493,18 +493,18 @@ MonoBehaviour:
       y: 17
       width: 291
       height: 334
-    m_Scale: {x: 0.2780019, y: 0.2780019}
-    m_Translation: {x: 145.5, y: 168.76003}
+    m_Scale: {x: 0.34535104, y: 0.34535104}
+    m_Translation: {x: 145.5, y: 112.97534}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -523.3777
-      y: -607.04626
-      width: 1046.7554
-      height: 1201.4307
+      x: -421.31046
+      y: -327.1319
+      width: 842.6209
+      height: 967.1319
     m_MinimalGUI: 1
   m_defaultScale: 0.2609375
   m_TargetTexture: {fileID: 0}
@@ -671,31 +671,31 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Balok/Jaring
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes/Balok/Jaring
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\COMMISSION\PakFrans_UNESA\ModulAR1.0
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 64950000
-    m_LastClickedID: 38244
-    m_ExpandedIDs: 0000000078280000042a00004e95000000ca9a3b
+    scrollPos: {x: 0, y: 151}
+    m_SelectedIDs: 3a2a0000
+    m_LastClickedID: 10810
+    m_ExpandedIDs: 00000000782800003a2a00002e2b0000b42b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Unsur
-      m_OriginalName: Unsur
+      m_Name: Balok
+      m_OriginalName: Balok
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 38232
+      m_UserData: 11054
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -712,7 +712,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000078280000
+    m_ExpandedIDs: 00000000782800003a2a00002e2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -739,7 +739,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000a43600003c090100fad70100ec5d00000623000078350000183b0000943c0000d6740000e27500009a76000058f10000da2400005e2c000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

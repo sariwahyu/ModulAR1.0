@@ -34,7 +34,7 @@ public class TargetSoalLatihan : MonoBehaviour
             if (name == "2")
             {
                 ObjectTitle.GetComponent<Text>().text = "Perhatikan Balok Berikut";
-                ObjectDescription.GetComponent<Text>().text = "Pertanyaan:\n\na.Berbentuk apakah bidang KMRP?\nb.Sebutkan bidang diagonal yang sama dengan KLRS?\nc.Jika panjang KQ = 8 cm.Sebutkan semua diagonal sisi yang panjangnya 8 cm?\nd.Sebutkan diagonal sisi yang panjangnya sama dengan KM?";
+                ObjectDescription.GetComponent<Text>().text = "Pertanyaan:\n\na.Berbentuk apakah bidang KMOQ?\nb.Sebutkan bidang diagonal yang sama dengan KLRQ?\nc.Jika panjang KQ = 8 cm.Sebutkan semua diagonal sisi yang panjangnya 8 cm?\nd.Sebutkan diagonal sisi yang panjangnya sama dengan KM?";
             }
         }
     }

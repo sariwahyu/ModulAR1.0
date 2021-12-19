@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Balok/Jaring/BalokJaring3.unity
+- path: Assets/Scenes/Kubus/Jaring/KubusJaring11.unity
   isLoaded: 1
   isActive: 1

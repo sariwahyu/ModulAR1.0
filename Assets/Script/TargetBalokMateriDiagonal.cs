@@ -29,17 +29,17 @@ public class TargetBalokMateriDiagonal : MonoBehaviour
             if (name == "1")
             {
                 ObjectTitle.GetComponent<Text>().text = "Diagonal Bidang/Sisi";
-                ObjectDescription.GetComponent<Text>().text = "Diagonal bidang atau diagonal sisi adalah garis yang terbentuk jika kita menarik garis lurus pada setiap bidang balok dari titik-titik sudut yang saling berhadapan. Setiap bidang sisi balok memiliki 2 garis diagonal, sehingga dalam sebuah balok terdapat 12 diagonal bidang.\n\nPada balok tersebut, garis-garis diagonal bidang balok yaitu sebagai berikut:\nDiagonal bidang AC = BD = EG = HF\nDiagonal bidang AF = BE = CH = DG\nDiagonal bidang AH = DE = BG = CF";
+                ObjectDescription.GetComponent<Text>().text = "Diagonal Sisi adalah ruas garis yang menghubungkan dua titik sudut yang berhadapan pada setiap bidang atau sisi balok.";
             }
             if (name == "2")
             {
                 ObjectTitle.GetComponent<Text>().text = "Diagonal Ruang";
-                ObjectDescription.GetComponent<Text>().text = "Diagonal ruang adalah suatu garis lurus yang menghubungkan antara dua titik sudut yang saling berhadapan di dalam ruangan balok. Sama seperti kubus, setiap balok memiliki 4 buah diagonal ruang.\n\nPada balok tersebut, diagonal ruang balok dapat ditemukan jika kita menarik garis lurus dari:\nTitik B ke titik H\nTitik D ke titik F\nTitik A ke titik G\nTitik E ke titik C";
+                ObjectDescription.GetComponent<Text>().text = "Diagonal ruang adalah garis yang menghubungkan dua titik sudut yang saling berhadapan dalam satu ruang.";
             }
             if (name == "3")
             {
                 ObjectTitle.GetComponent<Text>().text = "Bidang Diagonal";
-                ObjectDescription.GetComponent<Text>().text = "Bidang diagonal adalah sebuah bidang yang terbentuk oleh dua garis diagonal bidang sisi dan dua garis rusuk balok yang sejajar. Setiap balok mempunyai 6 buah bidang diagonal yang semuanya berbentuk persegi panjang.\n\nPada balok tersebut, bidang diagonal balok ditunjukan oleh :\nBidang ACGE\nBidang BCHE\nBidang CDEF\nBidang ADGF\nBidang ABGH\nBidang BDHF";
+                ObjectDescription.GetComponent<Text>().text = "Bidang diagonal adalah bidang yang dibentuk dari dua garis diagonal bidang dan dua rusuk balok yang sejajar.";
             }
 
         }

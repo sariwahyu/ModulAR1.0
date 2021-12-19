@@ -29,17 +29,17 @@ public class TargetKubusMateriUnsur : MonoBehaviour
             if (name == "1")
             {
                 ObjectTitle.GetComponent<Text>().text = "Sisi Kubus";
-                ObjectDescription.GetComponent<Text>().text = "Sisi adalah persegi yang membatasi bangun ruang kubus, dan memiliki 6 buah sisi.\n\nSisi alas = ABCD\nSisi atas = EFGH\nSisi depan = ABFE\nSisi belakang = CDHG\nSisi kiri = ADHE\nSisi kanan = BCGF";
+                ObjectDescription.GetComponent<Text>().text = "Sisi kubus adalah bidang yang membatasi kubus.";
             }
-            if(name == "2")
+            if (name == "2")
             {
                 ObjectTitle.GetComponent<Text>().text = "Rusuk Kubus";
-                ObjectDescription.GetComponent<Text>().text = "Rusuk kubus merupakan garis potong antara sisi-sisi kubus.\n\nTerdapat 12 rusuk sama panjang yaitu :\n\nRusuk Alas : AB, BC, CD, AD\nRusuk Tegak: AE, BF, CG, DH\nRusuk Atas: EF, FG, GH, EH.";
+                ObjectDescription.GetComponent<Text>().text = "Rusuk kubus adalah garis potong antara dua sisi bidang kubus.";
             }
             if (name == "3")
             {
                 ObjectTitle.GetComponent<Text>().text = "Sudut Kubus";
-                ObjectDescription.GetComponent<Text>().text = "Titik sudut kubus adalah titik temu atau titik potong ketiga rusuk (titik pojok kubus) atau lebih.\n\nPada kubus ABCD.EFGH terdapat 8 buah titik sudut yaitu :\n A,  B,  C,  D,  E,  F,  G,  H";
+                ObjectDescription.GetComponent<Text>().text = "Titik sudut adalah titik potong antara dua atau tiga rusuk.";
             }
 
         }

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Latihan.unity
+- path: Assets/Scenes/Balok/Jaring/BalokJaring3.unity
   isLoaded: 1
   isActive: 1

@@ -9,30 +9,117 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 192580ae3a6f0b842b0294e341415eff
   - enabled: 1
-    path: Assets/Scenes/KubusMenu.unity
-    guid: 311cb82de1cebdf4b9789b5d0e2d8305
-  - enabled: 1
-    path: Assets/Scenes/KubusUnsur.unity
-    guid: 9ac449202a49d964fa7ea361fb0461e0
-  - enabled: 1
-    path: Assets/Scenes/KubusDiagonal.unity
-    guid: d170a537011ed2d499a8145c285c8bea
-  - enabled: 1
-    path: Assets/Scenes/KubusJaring.unity
-    guid: be2edf604c8d7854097009e8d71471c0
-  - enabled: 1
-    path: Assets/Scenes/BalokMenu.unity
-    guid: b5ae4ad8c8b78c844880d8bd95578c24
-  - enabled: 1
-    path: Assets/Scenes/BalokUnsur.unity
-    guid: 5e519435c175caa4fbca651bdb25c58a
-  - enabled: 1
-    path: Assets/Scenes/BalokDiagonal.unity
-    guid: cd2850dd9cf0ce44687c8f7f0dc4c018
-  - enabled: 1
-    path: Assets/Scenes/BalokJaring.unity
-    guid: 31a37bf5d0f184043b15824c80c7f53e
-  - enabled: 1
     path: Assets/Scenes/Latihan.unity
     guid: 0e9dc8bf866c24944a52b27a0f8440a8
+  - enabled: 1
+    path: Assets/Scenes/Balok/BalokMenu.unity
+    guid: b5ae4ad8c8b78c844880d8bd95578c24
+  - enabled: 1
+    path: Assets/Scenes/Balok/Unsur/BalokUnsur.unity
+    guid: 5e519435c175caa4fbca651bdb25c58a
+  - enabled: 1
+    path: Assets/Scenes/Balok/Unsur/BalokUnsur_Sisi.unity
+    guid: b79f33f6dfe531b4886f9eb71be2084c
+  - enabled: 1
+    path: Assets/Scenes/Balok/Unsur/BalokUnsur_Rusuk.unity
+    guid: 4217b34c24b2ed642a32d5faad6d8664
+  - enabled: 1
+    path: Assets/Scenes/Balok/Unsur/BalokUnsur_Sudut.unity
+    guid: b776dcc23b0ca8546890edbe8ae3ea72
+  - enabled: 1
+    path: Assets/Scenes/Balok/Diagonal/BalokDiagonal.unity
+    guid: cd2850dd9cf0ce44687c8f7f0dc4c018
+  - enabled: 1
+    path: Assets/Scenes/Balok/Diagonal/BalokDiagonal_Sisi.unity
+    guid: bff557eb76dfb4444b73da87417cb176
+  - enabled: 1
+    path: Assets/Scenes/Balok/Diagonal/BalokDiagonal_Ruang.unity
+    guid: 0131b8ae1b609d1438fce99f0c4e556e
+  - enabled: 1
+    path: Assets/Scenes/Balok/Diagonal/BalokDiagonal_Bidang.unity
+    guid: 88cd4891d3777a049b1621458ad6e0d5
+  - enabled: 1
+    path: Assets/Scenes/Balok/Jaring/BalokJaring.unity
+    guid: 31a37bf5d0f184043b15824c80c7f53e
+  - enabled: 1
+    path: Assets/Scenes/Balok/Jaring/BalokJaring1.unity
+    guid: 5c72d80e2bcfc4f48b5d0de1f9a29cb1
+  - enabled: 1
+    path: Assets/Scenes/Balok/Jaring/BalokJaring2.unity
+    guid: 90023fbbeba9fba409156d39fb1b8b85
+  - enabled: 1
+    path: Assets/Scenes/Balok/Jaring/BalokJaring3.unity
+    guid: 986c51d9e06477742b00a87abfb7c462
+  - enabled: 1
+    path: Assets/Scenes/Balok/Jaring/BalokJaring4.unity
+    guid: 0298a6e075d38124280b314be7ec246b
+  - enabled: 1
+    path: Assets/Scenes/Balok/Jaring/BalokJaring5.unity
+    guid: aa7d0f42130db124a83b611119199279
+  - enabled: 1
+    path: Assets/Scenes/Balok/Jaring/BalokJaring6.unity
+    guid: 65865a35a7bfd2f449899195f29f32f5
+  - enabled: 1
+    path: Assets/Scenes/Kubus/KubusMenu.unity
+    guid: 311cb82de1cebdf4b9789b5d0e2d8305
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Unsur/KubusUnsur.unity
+    guid: 9ac449202a49d964fa7ea361fb0461e0
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Unsur/KubusUnsur_Sisi.unity
+    guid: 353b2754246a98c4eb5d72f196b92366
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Unsur/KubusUnsur_Rusuk.unity
+    guid: e70c5801ecded8647b95fca53c24ade5
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Unsur/KubusUnsur_Sudut.unity
+    guid: 68fd1ae6310c217428592f1433c3cd06
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Diagonal/KubusDiagonal.unity
+    guid: d170a537011ed2d499a8145c285c8bea
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Diagonal/KubusDiagonal_Sisi.unity
+    guid: 30692b35f95337143916c878d9b6670c
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Diagonal/KubusDiagonal_Ruang.unity
+    guid: 290b2de1c65617f4c8327df901c210d9
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Diagonal/KubusDiagonal_Bidang.unity
+    guid: 8261c390c4b7a274c8e874280895910c
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring.unity
+    guid: be2edf604c8d7854097009e8d71471c0
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring1.unity
+    guid: a297de818742c74448869a34e0d464ae
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring2.unity
+    guid: 83c5150871e3783449c038a638d73803
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring3.unity
+    guid: 0b3f1b7258d3def498814e8f9fd7a8df
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring4.unity
+    guid: 83dfc68bab839124fbae48a30790b328
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring5.unity
+    guid: 45c6f069234d9c6488cf2d09bc38a460
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring6.unity
+    guid: 7db04e82df69b0b449aa7dd1f48ac155
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring7.unity
+    guid: 390e8f8fcd550d54c8d634bb1c718f01
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring8.unity
+    guid: ec8395ded6539714fbf1a6b26d3cbc80
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring9.unity
+    guid: e40df0cc57917b749918c1ae72fa2ea4
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring10.unity
+    guid: 3fd02ef5985a72c4584c4f15fe585162
+  - enabled: 1
+    path: Assets/Scenes/Kubus/Jaring/KubusJaring11.unity
+    guid: 6af6c5ab6089ed64fabba4fa9f091a4b
   m_configObjects: {}

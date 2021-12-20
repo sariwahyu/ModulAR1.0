@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Kubus/Jaring/KubusJaring11.unity
+- path: Assets/Scenes/Kubus/Diagonal/KubusDiagonal_Ruang.unity
   isLoaded: 1
   isActive: 1
